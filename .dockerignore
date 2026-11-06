@@ -1,0 +1,6 @@
+Lavalink.jar
+logs/
+*.backup
+*.pre-update
+.git/
+.gitignore
