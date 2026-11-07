@@ -298,4 +298,4 @@ Purpose: Discord Music Streaming Backend
 
 Thank you for using XORA Lavalink!
 
-Keep the music playing! 🎶
+𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫:- https://discord.gg/deSMSDKQgt
